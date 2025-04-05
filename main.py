@@ -1,8 +1,7 @@
 import random
-import os
 import sys
 import time
-from parse_words_file import five_letter_words
+from .words import five_letter_words
 
 
 def get_input_word():
