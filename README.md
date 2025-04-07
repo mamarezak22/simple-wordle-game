@@ -12,6 +12,11 @@ A simple terminal-based Wordle game written in Python.
   - ⬛ **Black** – incorrect letter
 
 ## 📁 Project Structure
+└── simple-wordle-game/
+    └── src/
+        ├── __init__.py
+        ├── main.py
+        └── words.py
 
 
 ## ▶️ Run the Game
